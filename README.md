@@ -21,3 +21,8 @@ Il y a des programmes de chiffrement et déchiffrement, des fractales par matric
 ### Chiffrement
 - Création et cérification clé INSEE
 - Chiffrement RSA (modifications en cours)
+
+## En Physique
+### Mécanique
+- Etude des energies suivante lors d'une chute libre (et également avec frottements) : Mécanique, Potentielle et Cinétique
+![Energies](https://user-images.githubusercontent.com/64748597/113996539-2ffed400-984f-11eb-9b5b-4d8309e98085.png)
