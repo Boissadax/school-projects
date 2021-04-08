@@ -23,13 +23,17 @@ Il y a des programmes de chiffrement et déchiffrement, des fractales par matric
 - Chiffrement RSA (modifications en cours)
 
 ## En Physique
-### Mécanique
+### Mécanique et énergies
 - Etude des energies suivante lors d'une chute libre (et également avec frottements) : Mécanique, Potentielle et Cinétique
 ![Energies](https://user-images.githubusercontent.com/64748597/113996539-2ffed400-984f-11eb-9b5b-4d8309e98085.png)
 
 - Modélisation de la 2ème loi de Keppler
+
 ![Modélisation 2nd loi de Keppler](https://user-images.githubusercontent.com/64748597/113996816-705e5200-984f-11eb-85bb-ec4a94a7d5ec.png)
 
 - Visualisation des vecteurs vitesse et accéleration d'un objet en déplacement
 ![Modélisation des vecteurs acceleration et vitesse](https://user-images.githubusercontent.com/64748597/113997120-be735580-984f-11eb-9abe-bb4ea096c35d.png)
 
+## En Chimie
+- Taux d'avancement et diagramme de distribution Acide-Base
+- Courbe de Titrage conductimétrique (affiche la concentration des éléments chimique et la conductivité de la solution au cours du temps)
