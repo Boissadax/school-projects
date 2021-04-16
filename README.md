@@ -3,12 +3,12 @@ Programmes python réalisés en physique-chimie, maths et maths expertes.
 
 Il y a des programmes de chiffrement et déchiffrement, des fractales par matrices, des fonctions intéressantes permettant de calculer un PGCD, d'afficher tous les nombres premiers jusqu'a n ou bien même un programme de vérification de clé bancaire par Luhn.
 
-## En Math
+## En Maths
 - Déchiffrement par fréquence d'apparition des lettres
 - Fonction Euler
 - Résolution de Polynome du Second Degré
 
-## En Math Expertes
+## En Maths Expertes
 - Crible d'Ératosthène
 - Fonction PGCD
 - Fonction pour afficher tous les diviseurs d'un entier
@@ -20,7 +20,10 @@ Il y a des programmes de chiffrement et déchiffrement, des fractales par matric
 - Modèle Fractal d'arbre
 ### Chiffrement
 - Création et cérification clé INSEE
-- Chiffrement RSA (modifications en cours)
+- Chiffrement RSA 
+  - Les programme fonctionnent par bloc de 1 lettre
+  - Programme 1 : permet de générer des clés et de déchiffrer un message
+  - Programme 2 : permet de chiffrer un message grâce à la clé publique générée par le programme 1
 
 ## En Physique
 ### Mécanique et énergies
