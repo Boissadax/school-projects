@@ -13,17 +13,18 @@ Il y a des programmes de chiffrement et déchiffrement, des fractales par matric
 - Fonction PGCD
 - Fonction pour afficher tous les diviseurs d'un entier
 - Fonction puissance pour calculer rapidement n'importe quelle puissance (par récursivité)
-- Vérification de clé bancaire par Luhn
+- Vérification de clé de numéro de carte bancaire par Luhn
 ### Transformations par Matrice
 - Courbe du dragon
 - Fougère de Barnsley
 - Modèle Fractal d'arbre
 ### Chiffrement
-- Création et cérification clé INSEE
-- Chiffrement RSA 
-  - Les programme fonctionnent par bloc de 1 lettre
-  - Programme 1 : permet de générer des clés et de déchiffrer un message
+- Création et vérification clé de numéro INSEE
+- Chiffrement RSA (système de chiffrement le plus sûr du monde utilisé nottament par des banques)
+  - Les deux programmes fonctionnent par bloc de 1 lettre
+  - Programme 1 : permet de générer des clés (privées / publiques) et de déchiffrer un message
   - Programme 2 : permet de chiffrer un message grâce à la clé publique générée par le programme 1
+  - Je suis en train de creer un nouveau programme permettant de chiffrer des blocs d'autant de lettres que l'on souhaite, 3 par exemple (cela permet d'améliorer grandement la sécurité du chiffrement)
 
 ## En Physique
 ### Mécanique et énergies
